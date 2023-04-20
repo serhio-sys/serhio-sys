@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhio-sys&label=Profile%20views&color=0e75b6&style=flat" alt="serhio-sys" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serhio-sys" alt="serhio-sys" /></a> </p>
-
 - 🌱 I’m currently learning **C#, .NET, ASP.NET, ReactJS, Redux.**
 
 - 👯 I’m collaborated on [SDTP-Practice](https://github.com/pOpovich69/SDTP-Practice)
