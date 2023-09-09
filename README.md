@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhio-sys&label=Profile%20views&color=0e75b6&style=flat" alt="serhio-sys" /> </p>
 
-- 🌱 I’m currently learning **C#, .NET, ASP.NET, ReactJS, Redux.**
+- 🌱 I’m currently learning **Python ,Django, Django Rest Framework**
 
 - 👯 I’m collaborated on [SDTP-Practice](https://github.com/pOpovich69/SDTP-Practice)
 
