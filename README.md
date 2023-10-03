@@ -1,13 +1,9 @@
-<h1 align="center">Hi there👋, I'm Serhii</h1>
-<h3 align="center">I am open to learning new technologies not only for backend development</h3>
+<h1 align="center">Hi there👋, I'm Serhii a young software developer from the Ukraine</h1>
+<h3 align="center">My specializationv lies in Python - Framework like Django - and Vue.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhio-sys&label=Profile%20views&color=0e75b6&style=flat" alt="serhio-sys" /> </p>
 
-- 🌱 I’m currently learning **Python ,Django, Django Rest Framework**
-
-- 👯 I’m collaborated on [SDTP-Practice](https://github.com/pOpovich69/SDTP-Practice)
-
-- 📫 How to reach me **serhii.kolodyazhniy@gmail.com**
+- 📫 Happy to connect: **serhii.kolodyazhniy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
