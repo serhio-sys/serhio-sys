@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Serhii a young software developer from the Ukraine</h1>
-<h3 align="center">My specializationv lies in Python - Framework like Django - and Vue.js.</h3>
+<h3 align="center">My specialization lies in Python - Framework like Django - and Vue.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhio-sys&label=Profile%20views&color=0e75b6&style=flat" alt="serhio-sys" /> </p>
 
